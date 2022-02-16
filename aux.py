@@ -1,3 +1,5 @@
+import numpy as np
+from matplotlib import pyplot as plt
 def plotBoundaryDT(data, labels, X_test,y_test, clf_1=None, N=20):
     class_1 = data[labels == 1]
     class_0 = data[labels == 0]
