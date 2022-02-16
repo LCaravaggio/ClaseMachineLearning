@@ -30,6 +30,3 @@ def plotBoundaryDT(data, labels, X_test,y_test, clf_1=None, N=20):
         ax.contourf(x1, x2, Z_nn,cmap=plt.cm.RdYlBu)
     ax.scatter(class_1[:,0], class_1[:,1], color='r', s=20, alpha=0.5)
     ax.scatter(class_0[:,0], class_0[:,1], color='b', s=20, alpha=0.5)
-
-def hola(): 
-    print('hola')
