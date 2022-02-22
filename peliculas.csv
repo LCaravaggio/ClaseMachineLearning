@@ -6777,7 +6777,7 @@ id,averageRating,numVotes,titleType,startYear
 6775,6.2,6,tvEpisode,2007
 6776,8.1,67,tvEpisode,2014
 6777,7.4,37,tvSpecial,2014
-6778,5.7,7,movie,\N
+6778,5.7,7,movie,2010
 6779,4.6,105,movie,1986
 6780,5.4,277,tvMovie,1996
 6781,5.2,9,short,2020
@@ -11382,7 +11382,7 @@ id,averageRating,numVotes,titleType,startYear
 11380,6.0,27,movie,2018
 11381,7.4,20,short,1973
 11382,4.1,147,movie,2004
-11383,7.7,14,tvSeries,\N
+11383,7.7,14,tvSeries,2004
 11384,7.7,302,tvEpisode,2005
 11385,5.3,269,tvMovie,1978
 11386,9.4,3965,tvEpisode,1993
@@ -22858,7 +22858,7 @@ id,averageRating,numVotes,titleType,startYear
 22856,8.6,148,tvEpisode,2017
 22857,6.7,64,video,2002
 22858,8.9,10,video,2010
-22859,7.4,277,tvSeries,\N
+22859,7.4,277,tvSeries,2010
 22860,7.8,5,short,2007
 22861,5.8,6,tvMovie,2017
 22862,5.9,17,movie,1987
@@ -28020,7 +28020,7 @@ id,averageRating,numVotes,titleType,startYear
 28018,7.1,202,tvEpisode,2016
 28019,9.3,8,tvEpisode,2006
 28020,7.8,7,tvEpisode,2016
-28021,8.8,21,tvEpisode,\N
+28021,8.8,21,tvEpisode,2001
 28022,5.6,13,movie,1981
 28023,6.6,8,video,1995
 28024,7.3,1533,movie,2015
@@ -28657,7 +28657,7 @@ id,averageRating,numVotes,titleType,startYear
 28655,7.5,2784,movie,1976
 28656,5.8,12,tvSeries,2016
 28657,9.5,6,tvEpisode,2013
-28658,6.7,13,tvEpisode,\N
+28658,6.7,13,tvEpisode,2000
 28659,7.9,24,tvEpisode,1979
 28660,7.2,21,tvEpisode,1958
 28661,7.8,12,movie,2018
@@ -37392,7 +37392,7 @@ id,averageRating,numVotes,titleType,startYear
 37390,5.0,25,movie,1995
 37391,8.6,7,short,1996
 37392,6.2,74,movie,2019
-37393,6.6,33,tvSeries,\N
+37393,6.6,33,tvSeries,2010
 37394,8.1,151,tvEpisode,1963
 37395,9.4,123,tvEpisode,2019
 37396,7.1,210,tvEpisode,2018
@@ -38268,7 +38268,7 @@ id,averageRating,numVotes,titleType,startYear
 38266,7.5,16,video,1986
 38267,7.0,10,tvMovie,2019
 38268,2.0,10,tvEpisode,1997
-38269,8.9,11,short,\N
+38269,8.9,11,short,1999
 38270,7.8,6,tvEpisode,2015
 38271,7.3,31,tvEpisode,2014
 38272,6.2,98,tvSeries,2020
@@ -39803,7 +39803,7 @@ id,averageRating,numVotes,titleType,startYear
 39801,5.5,6,movie,1933
 39802,8.7,41,short,2004
 39803,7.4,118,tvEpisode,2015
-39804,7.4,8,tvEpisode,\N
+39804,7.4,8,tvEpisode,2001
 39805,6.8,5,tvEpisode,1999
 39806,6.9,39,movie,2019
 39807,6.9,35,movie,2018
@@ -45272,7 +45272,7 @@ id,averageRating,numVotes,titleType,startYear
 45270,6.8,173,movie,1947
 45271,7.4,87,movie,1980
 45272,7.9,25,movie,2012
-45273,7.8,5,tvEpisode,\N
+45273,7.8,5,tvEpisode,2020
 45274,5.6,37,movie,1941
 45275,7.0,748,tvSeries,1975
 45276,8.8,202,tvEpisode,2016
@@ -45877,7 +45877,7 @@ id,averageRating,numVotes,titleType,startYear
 45875,7.2,166,tvEpisode,2008
 45876,6.6,15,movie,2018
 45877,6.8,8,tvEpisode,2013
-45878,7.8,10,tvEpisode,\N
+45878,7.8,10,tvEpisode,2013
 45879,7.5,10,tvEpisode,2020
 45880,7.9,7,tvEpisode,2018
 45881,7.7,19,tvSeries,1969
