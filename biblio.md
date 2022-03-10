@@ -1,3 +1,5 @@
+Alguna bibliografía introductoria
+
 <p>
 <a href="https://www.goodreads.com/book/show/24346909-introduction-to-machine-learning-with-python">
 <img border="0" title="Introduction to Machine Learning with Python" 
