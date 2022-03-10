@@ -8,6 +8,5 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14758
 <img border="0" title="The Signal and the Noise" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355058876l/13588394.jpg" width="86" height="133.3">
 </a>
-
 </p>
   
