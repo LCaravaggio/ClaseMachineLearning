@@ -2,4 +2,4 @@
 
 # Machine Learning
 
-Clase Introductoria a Machine Learning para Alphacast. 
+Clase Introductoria a Machine Learning para Alphacast. 4 de Mayo 2022. 
